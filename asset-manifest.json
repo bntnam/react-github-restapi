@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-github-restapi/static/css/main.aa306b3d.chunk.css",
-  "main.js": "/react-github-restapi/static/js/main.f58a25bf.chunk.js",
-  "main.js.map": "/react-github-restapi/static/js/main.f58a25bf.chunk.js.map",
-  "static/js/1.2d3b00a0.chunk.js": "/react-github-restapi/static/js/1.2d3b00a0.chunk.js",
-  "static/js/1.2d3b00a0.chunk.js.map": "/react-github-restapi/static/js/1.2d3b00a0.chunk.js.map",
+  "main.css": "/react-github-restapi/static/css/main.60f88ee2.chunk.css",
+  "main.js": "/react-github-restapi/static/js/main.ecbc0c7f.chunk.js",
+  "main.js.map": "/react-github-restapi/static/js/main.ecbc0c7f.chunk.js.map",
+  "static/js/1.0ba51ff6.chunk.js": "/react-github-restapi/static/js/1.0ba51ff6.chunk.js",
+  "static/js/1.0ba51ff6.chunk.js.map": "/react-github-restapi/static/js/1.0ba51ff6.chunk.js.map",
   "runtime~main.js": "/react-github-restapi/static/js/runtime~main.4f6a6128.js",
   "runtime~main.js.map": "/react-github-restapi/static/js/runtime~main.4f6a6128.js.map",
-  "static/css/main.aa306b3d.chunk.css.map": "/react-github-restapi/static/css/main.aa306b3d.chunk.css.map",
+  "static/css/main.60f88ee2.chunk.css.map": "/react-github-restapi/static/css/main.60f88ee2.chunk.css.map",
   "index.html": "/react-github-restapi/index.html",
-  "precache-manifest.620f1a0024fa21d1fa3bb2132f79e4c7.js": "/react-github-restapi/precache-manifest.620f1a0024fa21d1fa3bb2132f79e4c7.js",
+  "precache-manifest.ababc103cf2ff1eab484bca0037f65c5.js": "/react-github-restapi/precache-manifest.ababc103cf2ff1eab484bca0037f65c5.js",
   "service-worker.js": "/react-github-restapi/service-worker.js"
 }
