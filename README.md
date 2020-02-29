@@ -8,7 +8,6 @@
 - Website: <a href="http://bntnam.com/react-github-restapi" target="_blank">http://bntnam.com/react-github-restapi</a>
 - Local:
 
-  - **Clone** the project.
   - **npm install**
   - **npm start**
 
