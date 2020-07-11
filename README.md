@@ -5,7 +5,6 @@
 ### 1. Introduction
 
 - A React application using context API to manage the global state for fetching Github API.
-- Website: <a href="http://bntnam.com/react-github-restapi" target="_blank">http://bntnam.com/react-github-restapi</a>
 - Local:
 
   - **npm install**
